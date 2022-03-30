@@ -1,0 +1,15 @@
+Country,Survey Year,Survey Sample,Country Classification,Q1: Compound Interest,Q2: Inflation,Q3: Risk Diversification,Overall_Ranking
+United States,2009,1488,High-Income,65,64,52,60
+Italy,2006,3992,High-Income,40,60,45,48
+Germany,2009,1059,High-Income,82,78,62,74
+Sweden,2010,1302,High-Income,35,60,68,64
+Japan,2010,5268,High-Income,71,59,40,57
+New Zealand,2009,850,High-Income,86,81,27,65
+Netherlands,2010,1324,High-Income,85,77,52,71
+R Federation,2009,1366,Upper Middle-Income,36,51,13,33
+Romania,2010,2048,Upper Middle-Income,24,43,,34
+Azerbaijan,2009,1207,Upper Middle-Income,46,46,,46
+Chile,2006,13054,Upper Middle-Income,2,26,46,25
+Indonesia,2007,3360,Lower Middle-Income,78,61,28,56
+India,2006,1496,Lower Middle-Income,59,25,31,38
+West Bank & Gaza,2011,2022,Lower Middle-Income,51,64,,58
